@@ -1,0 +1,13 @@
+{
+  "name": "circleksolutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upgit": "git add * && git commit -m \" Updated some files , fixed some bugs\" && git push ",
+    "dev": "cls && browser-sync --files=\"**/*\" "
+  },
+  "author": "",
+  "license": "ISC"
+}
